@@ -1,0 +1,7 @@
+#include¡¡<iostream>
+
+int¡¡main()
+{
+std¡Ëcout¡¡<<¡¡¡°Hello world!\n¡±;
+return¡¡0£º
+}
